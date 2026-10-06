@@ -1,0 +1,14 @@
+node_modules/
+.next/
+dist/
+build/
+*.log
+.env
+.env.*
+!.env.example
+
+# Local IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
